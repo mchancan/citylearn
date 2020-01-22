@@ -24,13 +24,13 @@ Dependencies:
 * Unity game engine
 * Unity ML-Agents framework
 
-### Download and Install the Requirements
+### Download and install the requirements
 
 1. Download Unity 2017.4 or above from https://store.unity.com/download or through UnityHub.
 
 2. Download and follow the setup instructions of [Unity ML-Agents v0.10.0](https://github.com/Unity-Technologies/ml-agents/releases/tag/0.10.0) https://github.com/Unity-Technologies/ml-agents. We recommend to use v0.10.0 as we develod CityLearn using that version and also because new versions present substantial changes that might not work with out current release.
 
-3. Download the CityLearn Environment:
+### Download CityLearn
 
   ```bash
   $ git clone https://github.com/mchancan/citylearn.git

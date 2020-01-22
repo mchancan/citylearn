@@ -32,9 +32,9 @@ Dependencies:
 
 3. Download CityLearn **(the CityLearnBeta folder will be uploaded soon!)**
 
-  ```bash
-  $ git clone https://github.com/mchancan/citylearn.git
-  ```
+	```bash
+	$ git clone https://github.com/mchancan/citylearn.git
+	```
   
 4. Put the `CityLearnBeta` folder inside `UnitySDK/Assets/ML-Agents/Examples/` in your `ml-agents` folder.
 

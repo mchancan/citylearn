@@ -1,4 +1,4 @@
-# CityLearn
+# From Visual Place Recognition to Navigation: Learning Sample-Efficient Control Policies across Diverse Real World Environments
 
 ![alt text](readme/citylearn.png "CityLearn")
 

@@ -1,7 +1,5 @@
 # From Visual Place Recognition to Navigation: Learning Sample-Efficient Control Policies across Diverse Real World Environments
 
-![alt text](readme/citylearn.png "CityLearn")
-
 In this release we provide our **CityLearn** (beta) environment implementation proposed in [**From Visual Place Recognition to Navigation: Learning Sample-Efficient Control Policies across Diverse Real World Environments**](https://arxiv.org/pdf/1910.04335.pdf), accepted for publication in the IEEE International Conference on Robotics and Automation (ICRA 2020). Preprint version available at https://arxiv.org/abs/1910.04335.
 
 ## About CityLearn

@@ -30,7 +30,7 @@ Dependencies:
 
 2. Download and follow the setup instructions of [Unity ML-Agents v0.10.0](https://github.com/Unity-Technologies/ml-agents/releases/tag/0.10.0) https://github.com/Unity-Technologies/ml-agents. We recommend to use v0.10.0 as we develod CityLearn using that version and also because new versions present substantial changes that might not work with out current release.
 
-### Download CityLearn
+### Download CityLearn (the CityLearnBeta folder will be uploaded soon!)
 
   ```bash
   $ git clone https://github.com/mchancan/citylearn.git

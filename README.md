@@ -16,7 +16,7 @@ Visual navigation tasks in real world environments often require both self-motio
 
 ### Requirements
 
-CityLearn is developed on top of the Unity ML-Agents, which runs on Mac OS X, Windows, or Linux.
+CityLearn is developed on top of the Unity ML-Agents toolkit, which runs on Mac OS X, Windows, or Linux.
 
 Dependencies:
 

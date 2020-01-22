@@ -6,7 +6,7 @@ In this release we provide our CityLearn (beta) environment implementation propo
 
 ## About
 
-CityLearn is an interactive open framework for training and testing navigation algorithms over real-world environments including extreme visual appearance changes such as day to night or summer to winter transitions. We leverage publicly available datasets, often used in visual place recogntion and autonomous vehicles research, consisting of multiple traversals of across different seasons, time of day or weather conditions. It is designed to test generalization capabilities of navigation algorithms including reinforcement learning agents.
+CityLearn is an interactive open framework for training and testing navigation algorithms over real-world environments including extreme visual appearance changes such as day to night or summer to winter transitions. We leverage publicly available datasets, often used in visual place recognition and autonomous vehicles research, consisting of multiple traversals of across different seasons, time of day or weather conditions. It is designed to test the generalization capabilities of navigation algorithms including reinforcement learning agents.
 
 ## Abstract
 
@@ -16,7 +16,7 @@ Visual navigation tasks in real world environments often require both self-motio
 
 ### Requirements
 
-The CityLearn environment is developed on top of the Unity ML-Agents, which runs on Mac OS X, Windows, or Linux.
+The CityLearn environment was developed on top of the Unity ML-Agents, which runs on Mac OS X, Windows, or Linux.
 
 Dependencies:
 

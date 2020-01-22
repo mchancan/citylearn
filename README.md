@@ -2,6 +2,8 @@
 
 In this release we provide our **CityLearn** (beta) environment implementation proposed in [**From Visual Place Recognition to Navigation: Learning Sample-Efficient Control Policies across Diverse Real World Environments**](https://arxiv.org/pdf/1910.04335.pdf), accepted for publication in the IEEE International Conference on Robotics and Automation (ICRA 2020). Preprint version available at https://arxiv.org/abs/1910.04335.
 
+Project page: https://mchancan.github.io/projects/CityLearn
+
 ## About CityLearn
 
 CityLearn is an interactive open framework for training and testing navigation algorithms over real-world environments including extreme visual appearance changes such as day to night or summer to winter transitions. We leverage publicly available datasets, often used in visual place recognition and autonomous vehicles research, consisting of multiple traversals of across different seasons, time of day or weather conditions. It is designed to test the generalization capabilities of navigation algorithms including reinforcement learning agents.

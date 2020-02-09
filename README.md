@@ -6,11 +6,7 @@ Project page: https://mchancan.github.io/projects/CityLearn
 
 ## About CityLearn
 
-CityLearn is an interactive open framework for training and testing navigation algorithms over real-world environments including extreme visual appearance changes such as day to night or summer to winter transitions. We leverage publicly available datasets, often used in visual place recognition and autonomous vehicles research, consisting of multiple traversals of across different seasons, time of day or weather conditions. It is designed to test the generalization capabilities of navigation algorithms including reinforcement learning agents.
-
-## Abstract
-
-Visual navigation tasks in real world environments often require both self-motion and place recognition feedback. While deep reinforcement learning has shown success in solving these perception and decision-making problems in an end-to-end manner, these algorithms require large amounts of experience to learn navigation policies from high-dimensional inputs, which is generally impractical for real robots due to sample complexity. In this paper, we address these problems with two main contributions. We first leverage place recognition and deep learning techniques combined with goal destination feedback to generate compact, bimodal images representations that can then be used to effectively learn control policies at kilometer scale from a small amount of experience. Second, we present an interactive and realistic framework, called CityLearn, that enables for the first time the training of navigation algorithms across city-sized, real-world environments with extreme environmental changes. CityLearn features over 10 benchmark real-world datasets often used in place recognition research with more than 100 recorded traversals and across 60 cities around the world. We evaluate our approach in two CityLearn environments where our navigation policy is trained using a single traversal. Results show our method can be over 2 orders of magnitude faster than when using raw images and can also generalize across extreme visual changes including day to night and summer to winter transitions.
+CityLearn is an interactive open framework for training and testing navigation algorithms on real-world environments with extreme visual appearance changes including day to night or summer to winter transitions. We leverage publicly available datasets, often used in visual place recognition and autonomous vehicles research, consisting of multiple traversals across different seasons, time of day or weather conditions. CityLearn is also designed to test the generalization capabilities of navigation algorithms including reinforcement learning agents.
 
 ## Installation
 
@@ -33,10 +29,10 @@ Dependencies:
 3. Download CityLearn **(the CityLearnBeta folder will be uploaded soon!)**
 
 	```bash
-	$ git clone https://github.com/mchancan/citylearn.git
+	git clone https://github.com/mchancan/citylearn.git
 	```
   
-4. Put the `CityLearnBeta` folder inside `UnitySDK/Assets/ML-Agents/Examples/` in your `ml-agents` folder.
+4. Put the `CityLearnBeta` directory inside `UnitySDK/Assets/ML-Agents/Examples/` in your `ml-agents` directory.
 
 ## License
 

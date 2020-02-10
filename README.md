@@ -36,7 +36,8 @@ Dependencies:
 
 ## License
 
-CityLearn itself is released under the MIT License (refer to the LICENSE file for details).
+CityLearn itself is released under the MIT License (refer to the LICENSE file for details) for academic purposes. For commercial usage, please contact us.
+
 
 ## Citation
 

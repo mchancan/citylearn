@@ -1,4 +1,5 @@
 # CityLearn: Diverse Real-World Environments for Sample-Efficient Navigation Policy Learning
+<img src="readme/overcast.png" width="40%">
 
 ![](readme/overcast.png | width=40) | ![](readme/night.png) | ![](readme/snow.png)
 

@@ -16,19 +16,17 @@ Project page: https://mchancan.github.io/projects/CityLearn
 
 CityLearn is an interactive open framework for training and testing navigation algorithms on real-world environments with extreme visual appearance changes including day to night or summer to winter transitions. We leverage publicly available datasets, often used in visual place recognition and autonomous vehicles research, consisting of multiple traversals across different seasons, time of day or weather conditions. CityLearn is also designed to test the generalization capabilities of navigation algorithms including reinforcement learning agents.
 
-## Installation
+## Requirements
 
-### Requirements
+CityLearn is developed on top of the Unity ML-Agents toolkit, which can run on Mac OS X, Windows, or Linux.
 
-CityLearn is developed on top of the Unity ML-Agents toolkit, which runs on Mac OS X, Windows, or Linux.
-
-Dependencies:
+Some dependencies:
 
 * Python 3.6
 * Unity game engine
 * Unity ML-Agents toolkit
 
-### Configuring and using CityLearn!
+## Configuring and using CityLearn
 
 1. Download and install [Unity](https://unity.com/products/core-platform) 2017.4 from [here](https://unity3d.com/get-unity/download/archive) or through [UnityHub](https://store.unity.com/download).
 
@@ -58,7 +56,12 @@ Dependencies:
 - St Lucia Multiple Times of Day (videos): https://wiki.qut.edu.au/display/raq/St+Lucia+Multiple+Times+of+Day
 - Alderley (video+frames): https://wiki.qut.edu.au/pages/viewpage.action?pageId=181178395
 
-5. Run a demo! The code provided in the `CityLearn` directory can be directly used on this subset of the [Nordland dataset](https://drive.google.com/drive/folders/1xrHKrHYgSqrMk9-XeC1qIe8UYDmOsgfd), but you can easily use any other driving dataset. For extracting frames out of the downloaded videos, you can use [Avconv](https://libav.org/avconv.html) on Ubuntu, e.g.
+* For extracting frames out of the downloaded videos, you can use [Avconv](https://libav.org/avconv.html) on Ubuntu, e.g.
+
+
+5. Run a demo!
+
+- The code provided in the `CityLearn` directory can be directly used on this subset of the [Nordland dataset](https://drive.google.com/drive/folders/1xrHKrHYgSqrMk9-XeC1qIe8UYDmOsgfd), but you can easily use any other driving dataset. 
 
 ## License
 

@@ -28,7 +28,7 @@ Dependencies:
 * Unity game engine
 * Unity ML-Agents toolkit
 
-### Download and install the requirements
+### Configuring and using CityLearn!
 
 1. Download and install [Unity](https://unity.com/products/core-platform) 2017.4 from [here](https://unity3d.com/get-unity/download/archive) or through [UnityHub](https://store.unity.com/download).
 

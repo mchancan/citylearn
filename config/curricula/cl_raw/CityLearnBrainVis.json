@@ -1,0 +1,10 @@
+{
+    "measure": "reward",
+    "thresholds": [ 0.95, 0.95, 0.95, 0.95, 0.95, 0.95 ],
+    "min_lesson_length": 100,
+    "signal_smoothing": true,
+    "parameters":
+    {
+        "num_imgs": [ 4, 8, 16, 32, 64, 128, 256 ]
+    }
+}

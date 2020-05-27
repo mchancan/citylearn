@@ -43,7 +43,7 @@ Some dependencies:
 - Put the `CityLearn` directory inside `UnitySDK/Assets/ML-Agents/Examples/` in your `ml-agents-0.8.1` directory.
 - Add the files provided in the `config` directory inside `config` in your `ml-agents-0.8.1` directory.
 
-4. Download the driving datasets of your choice:
+4. Download the driving datasets of your choice. For some datasets, you may need to extract frames out of the downloaded videos using [Avconv](https://libav.org/avconv.html) on Ubuntu, e.g.
 
 - Oxford RobotCar: https://robotcar-dataset.robots.ox.ac.uk/
 - Berkeley DeepDrive: https://bdd-data.berkeley.edu/
@@ -55,8 +55,6 @@ Some dependencies:
 - UQ St Lucia: https://wiki.qut.edu.au/display/raq/UQ+St+Lucia
 - St Lucia Multiple Times of Day (videos): https://wiki.qut.edu.au/display/raq/St+Lucia+Multiple+Times+of+Day
 - Alderley (video+frames): https://wiki.qut.edu.au/pages/viewpage.action?pageId=181178395
-
-For extracting frames out of the downloaded videos, you can use [Avconv](https://libav.org/avconv.html) on Ubuntu, e.g.
 
 
 5. Run a demo!

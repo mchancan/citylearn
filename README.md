@@ -39,8 +39,8 @@ Some dependencies:
 
 		git clone https://github.com/mchancan/citylearn.git
 	
-- Put the `CityLearn` directory inside `UnitySDK/Assets/ML-Agents/Examples/` in your `ml-agents-0.8.1` directory.
-- Add the files provided in the `config` directory inside `config` in your `ml-agents-0.8.1` directory.
+- Put the `CityLearn` directory inside the `UnitySDK/Assets/ML-Agents/Examples/` folder in your `ml-agents-0.8.1` directory.
+- Add the files provided in the `config` directory inside the `config/` folder in your `ml-agents-0.8.1` directory.
 
 4. Download the driving datasets of your choice. For some datasets, you may need to extract frames out of the downloaded videos using [Avconv](https://libav.org/avconv.html) on Ubuntu, e.g.
 

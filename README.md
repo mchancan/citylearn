@@ -22,9 +22,9 @@ CityLearn is developed on top of the Unity ML-Agents toolkit, which can run on M
 
 Some dependencies:
 
-* Python 3.6
-* Unity game engine
-* Unity ML-Agents toolkit
+	* Python 3.6
+	* Unity game engine
+	* Unity ML-Agents toolkit
 
 ## Configuring and using CityLearn
 

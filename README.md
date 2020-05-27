@@ -42,8 +42,8 @@ Dependencies:
 	```bash
 	git clone https://github.com/mchancan/citylearn.git
 	```
-3.1. Put the `CityLearn` directory inside `UnitySDK/Assets/ML-Agents/Examples/` in your `ml-agents-0.8.1` directory.
-3.2. Add the files provided in the `config` directory inside `config` in your `ml-agents-0.8.1` directory.
+- Put the `CityLearn` directory inside `UnitySDK/Assets/ML-Agents/Examples/` in your `ml-agents-0.8.1` directory.
+- Add the files provided in the `config` directory inside `config` in your `ml-agents-0.8.1` directory.
 
 4. Download the driving datasets of your choice:
 

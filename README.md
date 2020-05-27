@@ -1,9 +1,10 @@
 # CityLearn: Diverse Real-World Environments for Sample-Efficient Navigation Policy Learning
 
+Oxford RobotCar dataset
 <img src="readme/night.gif" width="32%" height="60%" /> <img src="readme/snow.gif" width="32%" height="60%" /> <img src="readme/ovc.gif" width="32%" height="60%" />
-<!---<img src="readme/night.gif" width="100%">
-<img src="readme/overcast.png" width="100%">
-<img src="readme/snow.png" width="100%">--->
+
+Nordland Railway dataset
+<img src="readme/summer.gif" width="32%" height="60%" /> <img src="readme/fall.gif" width="32%" height="60%" /> <img src="readme/winter.gif" width="32%" height="60%" />
 
 In this release we provide our **CityLearn** (beta) environment implementation proposed in [**CityLearn: Diverse Real-World Environments for Sample-Efficient Navigation Policy Learning**](https://arxiv.org/pdf/1910.04335.pdf), accepted for publication in the IEEE International Conference on Robotics and Automation (ICRA 2020). Preprint version available at https://arxiv.org/abs/1910.04335.
 

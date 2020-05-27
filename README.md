@@ -38,6 +38,7 @@ Some dependencies:
 3. Clone this repository on a temporal folder:
 
 	git clone https://github.com/mchancan/citylearn.git
+	
 - Put the `CityLearn` directory inside `UnitySDK/Assets/ML-Agents/Examples/` in your `ml-agents-0.8.1` directory.
 - Add the files provided in the `config` directory inside `config` in your `ml-agents-0.8.1` directory.
 

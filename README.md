@@ -32,12 +32,12 @@ Some dependencies:
 
 2. Download and install [Unity ML-Agents v0.8.1](https://github.com/Unity-Technologies/ml-agents/releases/tag/0.8.1). Using other [ML-Agent](https://github.com/Unity-Technologies/ml-agents) releases may require substantial [changes](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Migrating.md) as CityLearn was developed using v0.8.1. Once downloaded, you will need to install this for development. To do so, from the `ml-agents-0.8.1` repository's root directory, run:
 
-	pip3 install -e ./ml-agents-envs
-	pip3 install -e ./ml-agents
+		pip3 install -e ./ml-agents-envs
+		pip3 install -e ./ml-agents
 
 3. Clone this repository on a temporal folder:
 
-	git clone https://github.com/mchancan/citylearn.git
+		git clone https://github.com/mchancan/citylearn.git
 	
 - Put the `CityLearn` directory inside `UnitySDK/Assets/ML-Agents/Examples/` in your `ml-agents-0.8.1` directory.
 - Add the files provided in the `config` directory inside `config` in your `ml-agents-0.8.1` directory.

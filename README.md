@@ -2,7 +2,7 @@
 
 ||||
 | :-----: | :-: | :-: |
-| ![night.mp4](readme/night.mp4) | ![bolt-multi-size-detection](preview/bolt-multi-size-detection.gif) [bolt-multi-size-detection.mp4](https://github.com/intel-iot-devkit/sample-videos/raw/master/bolt-multi-size-detection.mp4) | ![bottle-detection](preview/bottle-detection.gif) [bottle-detection.mp4](https://github.com/intel-iot-devkit/sample-videos/raw/master/bottle-detection.mp4) |
+| ![night.mp4](https://github.com/mchancan/citylearn/readme/night.mp4) | ![bolt-multi-size-detection](preview/bolt-multi-size-detection.gif) [bolt-multi-size-detection.mp4](https://github.com/intel-iot-devkit/sample-videos/raw/master/bolt-multi-size-detection.mp4) | ![bottle-detection](preview/bottle-detection.gif) [bottle-detection.mp4](https://github.com/intel-iot-devkit/sample-videos/raw/master/bottle-detection.mp4) |
 
 <img src="readme/night.png" width="100%">
 <!---<img src="readme/overcast.png" width="100%">

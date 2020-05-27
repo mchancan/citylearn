@@ -58,12 +58,12 @@ Some dependencies:
 
 ## Training you own agent
 
-- The code provided in the `CityLearn` directory can be directly used on this [subset of the Nordland dataset](https://drive.google.com/drive/folders/1xrHKrHYgSqrMk9-XeC1qIe8UYDmOsgfd), but you can easily use any other driving dataset. 
-- Corresponding 64-d feature vectors of the [Nordland subset](https://drive.google.com/drive/folders/1xrHKrHYgSqrMk9-XeC1qIe8UYDmOsgfd) are provided in the `features` directory. For extracting these features, we used [this](https://github.com/uzh-rpg/netvlad_tf_open) NetVLAD implementation.
+- The code provided in the `CityLearn` directory can be directly used on this [subset of the Nordland dataset](https://drive.google.com/drive/folders/1xB8r4wmVYg1sbZ1wmoshPe5nexxoYxo9?usp=sharing), but you can easily use any other driving dataset. 
+- Corresponding 64-d feature vectors of the [Nordland subset](https://drive.google.com/drive/folders/1xB8r4wmVYg1sbZ1wmoshPe5nexxoYxo9?usp=sharing) are provided in the `features` directory. For extracting these features, we used [this](https://github.com/uzh-rpg/netvlad_tf_open) NetVLAD implementation.
 
 ## Run a demo using a pre-trained model!
 
-- We also provide pre-trained agents in the `CityLearn` directory for testing. You may need to double-check the paths for both the images of the [Nordland subset](https://drive.google.com/drive/folders/1xrHKrHYgSqrMk9-XeC1qIe8UYDmOsgfd) and the 64-d `features` in your computer, and then deploy the pre-trained `CityLearnBrain_NV64_Nordland.nn` agent using the `CityLearnDeploy` scene.
+- We also provide pre-trained agents in the `CityLearn` directory for testing. You may need to double-check the paths for both the images of the [Nordland subset](https://drive.google.com/drive/folders/1xB8r4wmVYg1sbZ1wmoshPe5nexxoYxo9?usp=sharing) and the 64-d `features` in your computer, and then deploy the pre-trained `CityLearnBrain_NV64_Nordland.nn` agent using the `CityLearnDeploy` scene.
 
 ## License
 

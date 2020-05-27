@@ -62,6 +62,7 @@ For extracting frames out of the downloaded videos, you can use [Avconv](https:/
 5. Run a demo!
 
 - The code provided in the `CityLearn` directory can be directly used on this subset of the [Nordland dataset](https://drive.google.com/drive/folders/1xrHKrHYgSqrMk9-XeC1qIe8UYDmOsgfd), but you can easily use any other driving dataset. 
+- We also provide the correspoing `64-d` feature vectors of this Nordland subset in the `features` directory. For extracting these features, we used [this](https://github.com/uzh-rpg/netvlad_tf_open) NetVLAD implementation.
 
 ## License
 

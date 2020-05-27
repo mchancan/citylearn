@@ -22,9 +22,9 @@ CityLearn is developed on top of the Unity ML-Agents toolkit, which can run on M
 
 Some dependencies:
 
-	* Python 3.6
-	* Unity game engine
-	* Unity ML-Agents toolkit
+* Python 3.6
+* Unity game engine
+* Unity ML-Agents toolkit
 
 ## Configuring and using CityLearn
 
@@ -56,7 +56,7 @@ Some dependencies:
 - St Lucia Multiple Times of Day (videos): https://wiki.qut.edu.au/display/raq/St+Lucia+Multiple+Times+of+Day
 - Alderley (video+frames): https://wiki.qut.edu.au/pages/viewpage.action?pageId=181178395
 
-* For extracting frames out of the downloaded videos, you can use [Avconv](https://libav.org/avconv.html) on Ubuntu, e.g.
+*For extracting frames out of the downloaded videos, you can use [Avconv](https://libav.org/avconv.html) on Ubuntu, e.g.
 
 
 5. Run a demo!

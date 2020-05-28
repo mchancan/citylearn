@@ -8,7 +8,7 @@ Nordland Railway dataset
 
 <img src="readme/summer.gif" width="32%" height="60%" /> <img src="readme/fall.gif" width="32%" height="60%" /> <img src="readme/winter.gif" width="32%" height="60%" />
 
-We provide the **CityLearn** environment proposed in [**CityLearn: Diverse Real-World Environments for Sample-Efficient Navigation Policy Learning**](https://arxiv.org/pdf/1910.04335.pdf), accepted for publication in the IEEE International Conference on Robotics and Automation (ICRA 2020). Preprint version available at https://arxiv.org/abs/1910.04335.
+We provide the **CityLearn** framework proposed in [**CityLearn: Diverse Real-World Environments for Sample-Efficient Navigation Policy Learning**](https://arxiv.org/pdf/1910.04335.pdf), accepted for publication in the IEEE International Conference on Robotics and Automation (ICRA 2020). Preprint version available at https://arxiv.org/abs/1910.04335.
 
 Project page: https://mchancan.github.io/projects/CityLearn
 

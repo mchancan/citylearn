@@ -28,7 +28,7 @@ Some dependencies:
 
 ## Configuring CityLearn
 
-1. Download and install [Unity](https://unity.com/products/core-platform) *2017.4.36* for Windows or Mac from [here](https://unity3d.com/get-unity/download/archive) or through [UnityHub](https://store.unity.com/download) for Linux.
+1. Download and install [Unity](https://unity.com/products/core-platform) 2017.4.36 for Windows or Mac from [here](https://unity3d.com/get-unity/download/archive) or through [UnityHub](https://store.unity.com/download) for Linux.
 
 2. Download and install [Unity ML-Agents v0.8.1](https://github.com/Unity-Technologies/ml-agents/releases/tag/0.8.1). Using other [ML-Agents](https://github.com/Unity-Technologies/ml-agents) releases may require substantial [changes](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Migrating.md) as CityLearn was developed using v0.8.1. Once downloaded, you will need to install this for development. To do so, from the `ml-agents-0.8.1` repository's root directory, run:
 

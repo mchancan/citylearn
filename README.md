@@ -74,10 +74,12 @@ CityLearn itself is released under the MIT License (refer to the LICENSE file fo
 
 If you find this project useful for your research, please use the following BibTeX entry.
 
-	@article{
-		chancan2020citylearn,
-		author = {M. {Chanc\'an} and M. {Milford}},
-		title = {From Visual Place Recognition to Navigation: Learning Sample-Efficient Control Policies across Diverse Real World Environments},
-		journal = {arXiv preprint arXiv:1910.04335},
-		year = {2019}
+	@INPROCEEDINGS{chancan2020citylearn,
+		author={M. {Chanc\'an} and M. {Milford}},
+		booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
+		title={CityLearn: Diverse Real-World Environments for Sample-Efficient Navigation Policy Learning},
+		year={2020},
+		volume={},
+		number={},
+		pages={1697-1704}
 	}
